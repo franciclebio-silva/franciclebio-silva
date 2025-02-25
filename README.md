@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there sou franciclebio 👋
+---
 
-eu sou franciclebio,
 estou iniciando  minha jornada no desenvolvimento web com HTML, CSS e JavaScrip.
 sempre buscando evoluir e criar projetos incrivel!
 
