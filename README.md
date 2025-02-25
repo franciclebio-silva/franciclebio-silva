@@ -1,4 +1,4 @@
-## Hi there me chamo franciclebio 👋
+## Hi there sou franciclebio 👋
 ---
 
 estou iniciando  minha jornada no desenvolvimento web com HTML, CSS e JavaScrip.
