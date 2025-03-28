@@ -1,4 +1,4 @@
-# Olá, eu sou [franciclebio] 👋
+# Olá, eu sou franciclebio 👋
 
 💻 Desenvolvedor Full Stack em transição de carreira  
 📚 Estudando no DevClub  
