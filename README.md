@@ -1,13 +1,17 @@
-## Hi there sou franciclebio 👋
+# Olá, eu sou [franciclebio] 👋
+
+💻 Desenvolvedor Full Stack em transição de carreira  
+📚 Estudando no DevClub  
+🔭 Trabalhando em projetos com JavaScript, HTML e CSS 
+🌍 [Meu LinkedIn]( )  
+🚀 Confira meus projetos abaixo!  
+
 ---
 
-estou iniciando  minha jornada no desenvolvimento web com HTML, CSS e JavaScrip.
-sempre buscando evoluir e criar projetos incrivel!
+### 🚀 Tecnologias e Ferramentas
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-[![franciclebio stats](https://github-readme-stats.vercel.app/api?username=franciclebio)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
